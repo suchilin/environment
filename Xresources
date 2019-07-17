@@ -1,0 +1,8 @@
+xterm*faceName: Inconsolata for Powerline
+xterm*faceSize: 14
+xterm*renderFont: true
+xterm*locale: true
+xterm*utf8: 1
+xterm*background: black
+xterm*foreground: green
+XTerm*selectToClipboard: true
